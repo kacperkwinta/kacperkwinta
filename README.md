@@ -23,4 +23,6 @@
 
 [youtube]: https://www.youtube.com/channel/UCb1Kb-2p7yjI5Ua6wfupKaA
 
+---
+
 [![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperkwinta)](https://github.com/kacperkwinta/github-readme-stats)
