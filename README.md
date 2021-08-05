@@ -27,4 +27,4 @@
 
 ---
 
-[![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperkwinta&show_icons=true)](https://github.com/kacperkwinta/github-readme-stats)
+[![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperkwinta&show_icons=true&theme=radical)](https://github.com/kacperkwinta/github-readme-stats)
