@@ -2,8 +2,7 @@
 
 ## I'm a student in IT technical college
 
-- 📋 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+- 📋 I’m currently mastering my HTML and CSS skills
 - 🎞 Fun fact: I have yt channel and one of my videos have 10 milion views!
 - 📖 I love reading books, currently reading "How to Win Friends & Influence People"
 
