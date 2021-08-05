@@ -4,7 +4,7 @@
 
 - 📋 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🎞 Fun fact: I have yt channel and one of my videos have 10 milion views! [<img align="middle" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+- 📽 Fun fact: I have yt channel and one of my videos have 10 milion views! [<img align="middle" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 ### Languages and Tools:
 
