@@ -5,6 +5,7 @@
 - 📚 I’m currently mastering my HTML and CSS skills
 - 📽 Fun fact: I have yt channel and one of my videos have 10 milion views!
 - 📖 I love reading books, currently reading "How to Win Friends & Influence People"
+- 💻 Lately I am doing various challenges from the Frontend Mentor, u can see them in my repos
 
 <br>
 
