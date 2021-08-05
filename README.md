@@ -2,9 +2,8 @@
 
 ## I'm a student in IT technical college
 
-- 🌱 I’m currently learning everything 🤣
+- 📋 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - 🎞 Fun fact: I have yt channel and one of my videos have 10 milion views!
 
 ### Languages and Tools:
