@@ -5,6 +5,7 @@
 - 📋 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🎞 Fun fact: I have yt channel and one of my videos have 10 milion views!
+- 📖 I love reading books, currently reading "How to Win Friends & Influence People"
 
 <br>
 
