@@ -19,6 +19,6 @@
 
 ---
 
-[![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperkwinta&show_icons=true&theme=github_dark)](https://github.com/kacperkwinta/github-readme-stats)
+[![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperkwinta&show_icons=true&theme=default)](https://github.com/kacperkwinta/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperkwinta&layout=count)](https://github.com/kacperkwinta/github-readme-stats)
