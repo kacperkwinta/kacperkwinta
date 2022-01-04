@@ -4,7 +4,7 @@
 
 - 📚 I’m currently mastering my HTML and CSS & Sass skills
 - 📽 Fun fact: I have yt channel and one of my videos have [10 milion views!](https://www.youtube.com/watch?v=pxw-5qfJ1dk)
-- 📖 I love reading books, currently reading "Alice & Oliver by Charles Bock"
+- 📖 I love reading books, currently reading "The Book Thief"
 - 💻 Lately I am doing various challenges from the [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta), u can see them in my repos
 
 ### Languages and Tools:
