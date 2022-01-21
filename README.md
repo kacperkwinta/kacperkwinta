@@ -7,6 +7,9 @@
 - 📖 I love reading books, currently reading "Pride and Prejudice"
 - 💻 Lately I am doing various challenges from the [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta), u can see them in my repos
 
+### Catch me here:
+- [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta)
+
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
