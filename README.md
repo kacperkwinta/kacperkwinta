@@ -1,11 +1,9 @@
-### Hi there, I'm Kacper 👋
-
-## I'm a student in IT technical school
+# Hi there, I'm Kacper 👋
 
 - 📚 I’m currently learning JS from [this](https://www.udemy.com/course/the-complete-javascript-course/) course 💛
 - 📽 Fun fact: I have yt channel and one of my videos have [10 milion views!](https://www.youtube.com/watch?v=pxw-5qfJ1dk)
 - 📖 I love reading books, currently reading "Schindler's List"
-- 💻 Lately I am doing various challenges from the [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta), u can see them in my repos
+- 💻 Lately I am doing various challenges from the [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta), you can see them in my repos
 
 ### Catch me here:
 - [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta)
