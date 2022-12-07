@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning JS from [this](https://www.udemy.com/course/the-complete-javascript-course/) course 💛
 - 💯 Also I'm mastering my CSS with [this](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) course 💙
-- 📽 Fun fact: I have yt channel and one of my videos have [15 milions views!](https://www.youtube.com/watch?v=pxw-5qfJ1dk)
+- 📽 Fun fact: I have yt channel and one of my videos have [17 milions views!](https://www.youtube.com/watch?v=pxw-5qfJ1dk)
 - 📖 I love reading books, currently reading "Klara and the Sun"
 - 💻 Lately I am doing various challenges from the [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta), you can see them in my repos
 
