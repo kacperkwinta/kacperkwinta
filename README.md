@@ -60,6 +60,8 @@ From YT:
 
 - [Hyperplexed](https://www.youtube.com/@Hyperplexed)
 
+- [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+
 
 Websites:
 
