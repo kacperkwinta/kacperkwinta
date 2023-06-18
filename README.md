@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Kacper 👋 </h1>
+<h2 align="center"> Hi there, I'm Kacper 👋 </h2>
 <h3 align="center"> Unemployed IT enthusiast without degree, who love to write Frontend code 🤠 </h3>
 
 <p align='center'> My dream is to have a stable job as a Frontend Developer. I am constantly learning and improving my skills, trying to stay up to date with the latest technologies. On a daily basis, I use basic technologies to create websites, I prefer writing websites from scratch, starting with the design and considering how it should look on different devices. </p>
