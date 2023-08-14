@@ -37,6 +37,8 @@
 
 ### Catch me here:
 
+- Discord: kacperk0485
+
 - [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta)
 
 - [Twitter](https://twitter.com/KwintaKacper?t=0OdFfCozQKGj-odfX46cVw&s=09)
