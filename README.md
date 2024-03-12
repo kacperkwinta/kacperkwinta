@@ -30,7 +30,7 @@
 
 - 📽 Fun fact: I have **yt channel** and one of my videos have [17 milions views!](https://www.youtube.com/watch?v=pxw-5qfJ1dk)
 
-- 📖 I **love reading books**, currently reading "The Book of Longings"
+- 📖 I **love reading books**, check out [my Goodreads profile](https://www.goodreads.com/user/show/143827428-kacper)
 
 - 💻 I am doing **various challenges** from the [Frontend Mentor](https://www.frontendmentor.io/profile/kacperkwinta), you can **see them in my repos**
 
